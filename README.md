@@ -3,7 +3,7 @@
 Welcome to the DESN2000 Computer Stream Template Repository! This repository serves as a template for your DESN2000 Computer Stream project for 23T2. Follow the instructions below to create your own private repository based on this template:
 
 1. One team member should click on the "Use this template" button to create a new repository based on this template.
-2. When creating the new repository, make sure to set it as private to protect your project code.
+2. When creating the new repository, make sure to set it as **private** to protect your project code. (you may set it as public once the term is done to show your work!)
 3. Rename the new repository to include your team ID.
 4. Add your team members and course tutors as collaborators to the repository to grant them access.
 5. Happy coding!
@@ -27,7 +27,6 @@ To facilitate collaboration and feedback, add your team members and course tutor
 2. Click on "Add people" under "Manage access"
 3. Add your team members
 4. Add your tutors
-    - Hasindu: `hasindu2008`
-    - Kenny: 
-    - Kisaru:
+    - Kenny: `Lycheus`
+    - Kisaru: `kisarur`
     - Elton: `beebdev`
