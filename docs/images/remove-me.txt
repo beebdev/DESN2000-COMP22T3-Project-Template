@@ -1,0 +1,3 @@
+Use this directory to store images you refer in your user-guide.md and dev-guide.md.
+
+Remove me when you add images in this directory.
